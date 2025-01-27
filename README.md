@@ -1,6 +1,6 @@
 # Password Generator
 
-A sleek and user-friendly **Password Generator** built using **React**, **Tailwind CSS**, **JavaScript** and **HTML**. This tool allows users to generate secure passwords of desired lengths and customize the inclusion of numbers and special characters. Passwords can be conveniently copied to the clipboard.
+A sleek and user-friendly **Password Generator** built using **React**, **Tailwind CSS**, **JavaScript** and **HTML**. It allows users to generate secure passwords of desired lengths and customize the inclusion of numbers and special characters. Passwords can be conveniently copied to the clipboard.
 
 ## Features
 
